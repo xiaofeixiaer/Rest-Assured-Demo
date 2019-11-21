@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.init.RunTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.043 s <<< FAILURE! - in com.init.RunTest
+firstDemo  Time elapsed: 0.043 s  <<< ERROR!
+java.net.ConnectException: Connection refused (Connection refused)
+	at com.init.RunTest.firstDemo(RunTest.java:14)
+
