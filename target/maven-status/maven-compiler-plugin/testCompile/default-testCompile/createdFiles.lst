@@ -1,6 +1,0 @@
-utils/ExecuteSql.class
-apiFlow/Run2Test.class
-com/init/DBConnection.class
-com/init/RestAssuredExtension.class
-com/init/RomProperty.class
-apiFlow/RunTest.class
