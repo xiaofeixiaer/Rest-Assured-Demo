@@ -1,3 +1,6 @@
-/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/RunTest.java
-/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/Run2Test.java
+/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/apiFlow/RunTest.java
+/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/apiFlow/Run2Test.java
+/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/utils/ExecuteSql.java
 /Users/jun.xu/Documents/code/ROMapiTest/src/test/java/com/init/RestAssuredExtension.java
+/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/com/init/RomProperty.java
+/Users/jun.xu/Documents/code/ROMapiTest/src/test/java/com/init/DBConnection.java
