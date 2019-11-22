@@ -1,4 +1,4 @@
-package com.init;
+package init;
 
 import java.io.IOException;
 import java.util.Properties;

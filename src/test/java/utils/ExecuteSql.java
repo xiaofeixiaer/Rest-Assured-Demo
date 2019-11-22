@@ -1,6 +1,6 @@
 package utils;
 
-import com.init.DBConnection;
+import init.DBConnection;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

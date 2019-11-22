@@ -1,10 +1,10 @@
-package com.init;
+package init;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import static com.init.RomProperty.*;
+import static init.RomProperty.*;
 
 
 public class DBConnection {

@@ -1,10 +1,10 @@
-package com.init;
+package init;
 
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.extension.BeforeAllCallback;
 import org.junit.jupiter.api.extension.ExtensionContext;
 
-import static com.init.RomProperty.getPropertyValue;
+import static init.RomProperty.getPropertyValue;
 
 public class RestAssuredExtension implements BeforeAllCallback {
 
